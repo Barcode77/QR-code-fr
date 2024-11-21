@@ -20,8 +20,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/Barcode77/QR-code-fr](https://your-solution-url.com)
+- Live Site URL: [https://barcode77.github.io/QR-code-fr/](https://your-live-site-url.com)
 
 ## My process
 My process mainly tackled organization on HTML, and styling from top to bottom as per to the flow of the 
