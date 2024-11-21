@@ -73,3 +73,4 @@ In the course of the following projects, id like to harness my skills in flexbox
 - Twitter - [@ed_all_at_once](https://www.twitter.com/yourusername)
 
 
+# QR-code-fr
