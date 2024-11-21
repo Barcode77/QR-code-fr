@@ -27,12 +27,13 @@ body{
     flex-direction: column;
     width: 350px;
     height: 550px;
+    padding: 20px;
     background-color:var(--fourth-color);
     border-radius: 15px;
 }
 .flex-container img{
     border-radius: 10px;
-    margin: 20px ;
+    margin-bottom: 20px ;
 }
 .text {
     display: flex;
@@ -41,21 +42,21 @@ body{
     justify-content: center;
     text-align: center;
     padding: 0 16px;
+    margin: 0;
 }
 .text h1{
     text-align: center;
     line-height: 120%;
     font-weight: 700;
     font-size: var(--main-size);
-    margin-top:10px;
-    width:250px ;
+    margin:0;
 }
 .text p{
-    width:270px ;
+    padding-top: 16px;
     text-align: center;
     color: var(--secondary-color);
     line-height: 140%;
-
+    margin: 0;
 }
 .attribution {
     font-size: 11px;
